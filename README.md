@@ -15,7 +15,7 @@
 To install the package and all dependencies:
 
 ```
-git clone https://github.com/mehulsinha73/
+git clone https://github.com/mehulsinha73/pagerank.git
 conda create -n pagerank requirements.txt
 conda activate pagerank
 ```
