@@ -4,9 +4,9 @@
 
 ## Features
 
-- A Web Crawler that gets links between pages of website and store them in a SQL database. Web crawler doesn't recrawl any pages already in the database
+- A Web Crawler that gets links between pages of a website and stores them in a SQL database. Web crawler doesn't recrawl any pages already in the database
 
-- PageRank Algorithm is applied to the gathered databases of links and D3.js is used to visualize top N webpages with the highest pageranks
+- PageRank Algorithm is applied to the gathered databases of links and D3.js is used to visualize top N web pages with the highest pageranks
 
 - Pageranks can be recalculated without having to recrawl through webpages
 
